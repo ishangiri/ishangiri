@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishangiri" alt="ishangiri" /></a> </p>
 
 - 🔭 I’m currently working on [Jobseekers-Admin](https://mern-real-zeta.vercel.app/)
+- I'm currently learning three.js and also leraning to build 3d models.
 
 - 💬 Ask me about **react, next js, node js, java, angular**
 
