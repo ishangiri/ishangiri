@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishangiri" alt="ishangiri" /></a> </p>
 
-- 🔭 I’m currently working on AI-powered-Resume-Builder and Jobseekers-Paradise - https://jobseekers-paradise.vercel.app/
+- 🔭 I’m currently working on AI-powered-Resume-Builder - https://resume-builder-ishan-giris-projects.vercel.app/
     
      
 
