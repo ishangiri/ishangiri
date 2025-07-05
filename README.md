@@ -7,17 +7,16 @@
 
 ---
 
-🎓 Just graduated with a degree in Information Technology — now on a mission to turn lines of code into impactful digital experiences. I build products that blend clean UX with smart backend architecture.
+🎓 Just graduated with a degree in Information Technology (major in Software Development) — now on a mission to turn lines of code into impactful digital experiences. I build products that blend clean UX with smart backend architecture.
+Actively looking for any job oppurtunities. I dont have experience but I do have what it takes to be in your company and succeed.
 
 💡 Currently building:  
 🌟 **[AI-Powered Resume Builder](https://resume-builder-ishan-giris-projects.vercel.app/)** – Helping users generate standout resumes with AI-powered suggestions and beautiful layouts.
 
 🧠 I work across the stack and speak code fluently:  
-**React** · **Next.js** · **Node.js** · **Java** · **Python** · **FastAPI** · **Angular** · **Firebase** · **MongoDB** · **PostgreSQL** · **AWS** · **GCP** · **Scikit-learn** · **Pandas** · **MySQL**
+**React** · **Next.js** · **Node.js** · · **Python** · **FastAPI** · **Angular** · **Firebase** · **MongoDB** · **PostgreSQL** · **AWS** · **GCP** · **Pandas** · **MySQL**
 
 ---
-
-💬 Ask me about component architecture, API design, or the best way to ship full-stack products fast — or just chat about why TypeScript saves lives.
 
 📫 Reach out: **ishansmith2@gmail.com**
 
