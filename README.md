@@ -9,7 +9,7 @@
 
 🎓 **Just graduated** with a degree in *Information Technology* (Software Development major), and I’m on a mission to turn lines of code into real-world impact.
 
-💼 **Actively seeking junior developer roles**. I may not have years of experience, but I bring an unstoppable work ethic, full-stack capabilities, and an ability to ship real products.
+💼 **Actively seeking junior developer roles or internship**. I may not have years of experience, but I bring an unstoppable work ethic, full-stack capabilities, and an ability to ship real products.
 
 ---
 
@@ -39,7 +39,7 @@ A powerful resume creation tool using OpenAI’s GPT API to generate compelling 
 
 ---
 
-### ⚒️ Tools & Languages (Icons)
+### ⚒️ Tools & Languages
 
 <p align="center">
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" /></a>
