@@ -14,8 +14,7 @@
 ---
 
 ### 💡 Currently Building:
-🔹 **[AI Resume Builder](https://resume-builder-ishan-giris-projects.vercel.app/)**  
-A powerful resume creation tool using OpenAI’s GPT API to generate compelling resume content with beautiful, exportable templates.
+🔹 **[Web Portfolio](https://ishangiri.live)**  
 
 ---
 
@@ -27,7 +26,7 @@ A powerful resume creation tool using OpenAI’s GPT API to generate compelling 
 | **Backend**       | Node.js · FastAPI · Express.js · Python                                         |
 | **Databases**     | Firebase Firestore · MongoDB · PostgreSQL · MySQL                              |
 | **DevOps & Cloud**| AWS · GCP · Firebase Hosting · Vercel                                           |
-| **AI / ML**       | OpenAI API · Hugging Face · Pandas · Scikit-learn                              |
+| **AI / ML**       | OpenAI API · Data Visualization · Pandas · Scikit-learn                         |
 | **Tools & Others**| Git · GitHub · Zustand · REST APIs · Puppeteer                                 |
 
 ---
