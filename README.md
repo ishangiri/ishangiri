@@ -22,7 +22,7 @@
 
 | 🧩 Category      | ⚙️ Technologies                                                                 |
 |------------------|----------------------------------------------------------------------------------|
-| **Frontend**      | React · Next.js · Angular · Vite · TailwindCSS · ShadCN                         |
+| **Frontend**      | React · Next.js  · Vite · TailwindCSS · ShadCN                         |
 | **Backend**       | Node.js · FastAPI · Express.js · Python                                         |
 | **Databases**     | Firebase Firestore · MongoDB · PostgreSQL · MySQL                              |
 | **DevOps & Cloud**| AWS · GCP · Firebase Hosting · Vercel                                           |
