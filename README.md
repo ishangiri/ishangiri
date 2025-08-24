@@ -27,7 +27,7 @@
 | **Databases**     | Firebase Firestore · MongoDB · PostgreSQL · MySQL                              |
 | **DevOps & Cloud**| AWS · GCP · Firebase Hosting · Vercel                                           |
 | **AI / ML**       | OpenAI API · Data Visualization · Pandas · Scikit-learn                         |
-| **Tools & Others**| Git · GitHub · Zustand · REST APIs · Puppeteer                                 |
+| **Tools & Others**| Git · GitHub · Zustand · REST APIs                                |
 
 ---
 
